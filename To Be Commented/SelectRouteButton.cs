@@ -9,17 +9,6 @@ using UnityEngine.EventSystems;
 public class SelectRouteButton : MonoBehaviour, IPointerClickHandler
 {
     public GameObject gameControl;
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 
     public void OnPointerClick(PointerEventData pointerEventData)
     {
