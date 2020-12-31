@@ -22,6 +22,30 @@ Sampling moving pods of whales and sharks with an intuitive and interactive fly-
   <em>A Variety of Different Screen Grabs from the Environment</em>  
 </div><br><br>
 
-**Aquaculture:** Sampling fish species and other marine life in controlled scenarios is a key part of the aqua life practices. This scene involved both a fly over feature, with an in-house developed waypoint system, a diving system for the user to samply pH and other crucial data, with additive physics and UI/performance buffs.
+## Aquaculture:
+Sampling fish species and other marine life in controlled scenarios is a key part of the aqua life practices. This scene involved both a fly over feature, with an in-house developed waypoint system, a diving system for the user to samply pH and other crucial data, with additive physics and UI/performance buffs.
 
+**Features**:  
+1. Automatic Flying
+2. NPC (fish) AI, involving object avoidance
+3. Varying Sampling and Concentration Ranges for the Aquaculture Silos
+4. Custom Diving with additive Physics
+5. Random Environment Spawning
+6. User Selected Route
+
+<img src="https://i.ibb.co/Lv0QmpF/aquaculture-1.jpg" width="100%"/>
+
+## Fish Sampling:
+A lab was created to allow the users to easily sample, weigh, and measure fish. Likewise, there was an addition of lice species, which randomly propogated around the fish. A variety of different tasks and features were integerated to provide a more cohesive user experience.
+
+**Features**:  
+1. Random Lice Spawning
+2. Dynamic Fish Resizing
+3. Movement Animations
+4. Adaptive Camera Control
+5. Research Notebook and post-game exporting (CSV/clipboard)
+
+<img src="https://i.ibb.co/8M38xdS/fishsampling-2.jpg" width="100%"/>
+
+<img src="https://i.ibb.co/1dsFqrc/fishsampling-1.jpg" width="100%"/>
 
